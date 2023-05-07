@@ -1,0 +1,4 @@
+Websites with information about Rust, Bevy, and reference code for 2D Mesh in Bevy:
+1. https://bevyengine.org/examples/2d/mesh2d-manual/
+2. https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
+3. 
